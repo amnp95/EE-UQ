@@ -12,5 +12,7 @@ GPy
 mpi4py
 paramz
 scipy
+tables
+emukit
 openseespy
 femora
